@@ -1,0 +1,16 @@
+.env
+tidal_session.json
+.spotify_cache
+.cache
+
+transfer_state.json
+unmatched.csv
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+.vscode/
+.DS_Store
+Thumbs.db
